@@ -32,6 +32,10 @@ query{
     }
 }
 ```
+# TODO
+
+[ ] Support schema definitions
+[ ] Add some syntactic sugar for queries
 
 ## License
 
