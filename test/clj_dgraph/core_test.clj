@@ -6,10 +6,7 @@
   [:query
    [:director.name
     [{:func :me, :args {:id 1}}
-     [{:func :allofterms :args [:name "quoted-name"]} :title2 :title3 ]]
-    ]
-   ]
-  )
+     [{:func :allofterms :args [:name "quoted-name"]} :title2 :title3 ]]]])
 
 (def mutation
   [:mutation
