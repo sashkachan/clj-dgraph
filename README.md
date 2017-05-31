@@ -2,6 +2,8 @@
 
 Clojure library to turn Clojure vectors and maps into Dgraph query strings
 
+[![Clojars Project](https://img.shields.io/clojars/v/clj-dgraph.svg)](https://clojars.org/clj-dgraph)
+
 ## Usage
 
 
